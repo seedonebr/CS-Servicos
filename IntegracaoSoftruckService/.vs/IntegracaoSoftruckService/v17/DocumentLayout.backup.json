@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|y:\\trust\\softruck\\integracaosoftruckservice\\integracaosoftruckservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\softruckhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\softruckhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\carsystemdbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\carsystemdbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\integracaosoftruckservice\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4A237A8-4B28-4D3D-B4A0-4CBB104D885D}|IntegracaoSoftruckService\\IntegracaoSoftruckService.csproj|solutionrelative:integracaosoftruckservice\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoftruckHelper.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\SoftruckHelper.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\SoftruckHelper.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\SoftruckHelper.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\SoftruckHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:44:16.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\Program.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\Program.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\Program.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:44:14.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\ErrorHandler.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\ErrorHandler.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\ErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:44:11.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\EmailHelper.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\EmailHelper.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\EmailHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:44:08.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\DatabaseHelper.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\DatabaseHelper.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:44:04.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarsystemDbHelper.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\CarsystemDbHelper.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\CarsystemDbHelper.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\CarsystemDbHelper.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\CarsystemDbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:43:59.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\Service1.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\Service1.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\Service1.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\Service1.cs",
+              "ViewState": "AgIAAI4AAAAA0MzMzMwEwCcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:40:06.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\Service1.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\Service1.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\Service1.cs [Design]",
+              "RelativeToolTip": "IntegracaoSoftruckService\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:39:58.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\ProjectInstaller.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\ProjectInstaller.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\ProjectInstaller.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:46:24.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\App.config",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\App.config",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\App.config",
+              "RelativeToolTip": "IntegracaoSoftruckService\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-03T17:47:37.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\packages.config",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\packages.config",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\packages.config",
+              "RelativeToolTip": "IntegracaoSoftruckService\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-03T17:47:38.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectInstaller.Designer.cs",
+              "DocumentMoniker": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\ProjectInstaller.Designer.cs",
+              "RelativeDocumentMoniker": "IntegracaoSoftruckService\\ProjectInstaller.Designer.cs",
+              "ToolTip": "Y:\\Trust\\Softruck\\IntegracaoSoftruckService\\IntegracaoSoftruckService\\ProjectInstaller.Designer.cs",
+              "RelativeToolTip": "IntegracaoSoftruckService\\ProjectInstaller.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:48:06.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
